@@ -1,5 +1,3 @@
-// Feel free to modify this JS code as you see fit!
-// Just don't import any external 3rd party JS libraries for this assignment!
 
 const POKEMON_DATA = [
 	{ id: 1, name: "bulbasaur" },
@@ -139,7 +137,6 @@ const POKEMON_DATA = [
 	  }
 	};
   
-	// Init function. Use this to do stuff when the app start to first load.
 	const onInit = () => {
 	  pokedex.style = "display: none";
 	  openButton.addEventListener("click", () => {
