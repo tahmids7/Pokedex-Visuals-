@@ -15,3 +15,11 @@ _What can this pokedex do?_
 * On the right side displays every pokemon saved to the pokedex with their corresponding names and pictures. The right side also allows for the user to manually move their cursor and select a pokemon, which will populate on the black screen on the left side. 
 
 * Once the user is done with using the pokedex and has a pokemon selected, the user can close the pokedex by clicking on the blue circle at the top right corner of the pokedex, effectively saving which pokemon the user has selected, so that if the user were to open up the pokedex again, the pokemon they selected would be displayed in the black box. 
+
+<img width="1438" alt="Screenshot 2025-06-16 at 6 59 34 PM" src="https://github.com/user-attachments/assets/09edab0a-cb68-4c55-baa4-07f9d99f7175" />
+
+<img width="1433" alt="Screenshot 2025-06-16 at 6 59 46 PM" src="https://github.com/user-attachments/assets/1758a82e-5c00-4df1-9d1e-e0e37e7eb704" />
+
+<img width="1436" alt="Screenshot 2025-06-16 at 7 00 42 PM" src="https://github.com/user-attachments/assets/f783e9c5-8a2a-4117-b37b-09bd92d69389" />
+
+
